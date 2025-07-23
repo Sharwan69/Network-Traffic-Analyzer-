@@ -1,0 +1,16 @@
+# Packet Capture & Analysis
+scapy==2.4.5           
+pcapy==0.11.5          
+
+# GUI & Visualization
+tkinter==0.1.0         
+matplotlib==3.5.1      
+customtkinter==5.1.2   
+
+# Data Handling
+pandas==1.4.2          
+numpy==1.22.3          
+
+# Performance & Utilities
+threading6==2.0.0      
+python-dateutil==2.8.2 
